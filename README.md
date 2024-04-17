@@ -10,10 +10,14 @@ Just Click on Code and Download to download all the stages from this repo and th
 
 This is just a starter repo, i'm sure as more stages come about I will be changing the format of the file structure, But things will be listed in the documentation.
 
-## Available Stages ( 1 )
+## Available Stages ( 4 )
 
-### USPSA ( 1 )
+### USPSA ( 3 )
 * Bluegrass LOCAP Classic 2023 Match ( 1 ) /USPSA/BG LOCAP Stage 4.csp
+* Battle in the Bluegrass 2016 Match ( 1 ) /USPSA/Makers Mark the Spot.csp
+* Battle in the Bluegrass 2017 Match ( 1 ) /USPSA/Thousandsticks.csp
+### Action Steel ( 1 )
+* Mad Dash - /ActionSteel/Action Steel  - Mad Dash.csp
 
 ## Change Log
 ### Repo v2024.04.06
