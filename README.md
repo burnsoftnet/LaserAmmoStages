@@ -1,6 +1,6 @@
 # LaserAmmoCompetitiveShooterProStages
 
-Repo v2024.04.06
+Repo v2024.04.24
 
 Repo to share the Laser Ammo Competitive Shooter Pro Stages that I have Created To Share with the public
 
@@ -9,6 +9,8 @@ This will contain stages from USPSA and IDPA from misc matches that I have shot 
 Just Click on Code and Download to download all the stages from this repo and then you can pick and choose which stages you want to install locally on your machine.
 
 This is just a starter repo, i'm sure as more stages come about I will be changing the format of the file structure, But things will be listed in the documentation.
+
+For the Custom Stages, the stage briefings were exported to the    [docs section](docs/README/md)
 
 ## Available Stages ( 17 )
 
@@ -26,5 +28,10 @@ This is just a starter repo, i'm sure as more stages come about I will be changi
 * Backup of stock stages that come with the application ( 10 ) /StockStages/
 
 ## Change Log
+
+### Repo v2024.04.24
+* Added Exported Stage Briefings of Custom Stages.
+
+
 ### Repo v2024.04.06
 * Initial Release.
