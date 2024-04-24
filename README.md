@@ -10,7 +10,7 @@ Just Click on Code and Download to download all the stages from this repo and th
 
 This is just a starter repo, i'm sure as more stages come about I will be changing the format of the file structure, But things will be listed in the documentation.
 
-For the Custom Stages, the stage briefings were exported to the    [docs section](docs/README/md)
+For the Custom Stages, the stage briefings were exported to the    [docs section](docs/README.md)
 
 ## Available Stages ( 17 )
 
