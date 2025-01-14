@@ -1,6 +1,6 @@
 # LaserAmmoStages
 
-Repo v2024.04.24
+Repo v2025.01.14
 
 Repo to share the Laser Ammo Competitive Shooter Pro, Open Range and Any Other Laser Ammo Related Stages that I have Created To Share with the public
 
@@ -31,9 +31,51 @@ For the Custom Stages, the stage briefings were exported to the    [docs section
 
 ## Open Range
 
-TBD
+### Available States ( 22 Stages )
+
+#### FromFacebookGroup ( 6 Stages )
+
+* 2016FWPD InstructorCourse.orz
+* 3 Target Transition
+* 9 Shot Close Speed
+* Basic Handgun Proficiency
+* Daves Speed Drill
+* IDPA 5x5 Classifier
+
+#### GSSF ( 4 Stages )
+
+* 5 to glock - Version 1
+* 5 to glock - Version 2
+* Glock the Plates
+* Glock'M
+
+#### MaxMichelDrills ( 6 Stages )
+
+* Changeup
+* Drill #1 - Triple Six
+* Drill #2 - Twenty Alpha
+* Drill #4 - Controlled Pairs
+* Drill #5 - Out to Eat
+* Rapid Fire Paper
+
+#### MiscStages ( 6 Stages )
+
+* 3 Second Head Shots
+* 5x5
+* Bill Drill
+* El Presidente
+* John Wick Drill ( Stage description found at [Shooting USA](https://www.youtube.com/watch?v=1FwKwRnK1Yw&t=5s)
+* NRA High Power RT
+
 
 ## Change Log
+
+### Repo v2025.01.14
+
+* REFCTOR CSP Stages to their own folder
+* Created Open Range Folder
+* Imported Open Range Stages from my collection
+* Imported Stages from Facebook Page.
 
 ### Repo v2024.04.24
 * Added Exported Stage Briefings of Custom Stages.
