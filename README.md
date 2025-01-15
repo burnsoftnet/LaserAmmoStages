@@ -20,14 +20,33 @@ For the Custom Stages, the stage briefings were exported to the    [docs section
 * Bluegrass LOCAP Classic 2023 Match ( 1 ) /USPSA/BG LOCAP Stage 4.csp
 * Battle in the Bluegrass 2016 Match ( 1 ) /USPSA/Makers Mark the Spot.csp
 * Battle in the Bluegrass 2017 Match ( 1 ) /USPSA/Thousandsticks.csp
-* Classifiers ( 2 ) /USPSA/Classifiers/
 * Z Nation ( 1 )  /USPSA/Z Nation.csp
+* 2024 Area 5 ( 3 ) CSP\USPSA\2024 Area 5
+* 2024 Bluegrass State Championship ( 7 ) CSP\USPSA\2024 Bluegrass State Championship
+* 2024 CO Nationals ( 3 )  CSP\USPSA\2024 CO Nationals
+* Classifiers ( 5 ) CSP\USPSA\Classifiers
 
 #### Action Steel ( 1 )
 * Mad Dash - /ActionSteel/Action Steel  - Mad Dash.csp
 
 #### Stock Stages ( 10 )
 * Backup of stock stages that come with the application ( 10 ) /StockStages/
+
+#### GSSF ( 4 stages )
+
+* 5 to Glock version 1
+* 5 to Glock version 2
+* GLOCK M' Version 1
+* Glock the Plates
+
+### IDPA ( 1 stage )
+
+* Hold My Beer
+
+### Training Schedule ( 2 stages )
+
+* Training Schedule 1 - Steel
+* Training Schedule 6
 
 ## Open Range
 
@@ -69,6 +88,11 @@ For the Custom Stages, the stage briefings were exported to the    [docs section
 
 
 ## Change Log
+
+### Repo v2025.01.xx
+
+* Added 20 Stages from CSP
+* 
 
 ### Repo v2025.01.14
 
