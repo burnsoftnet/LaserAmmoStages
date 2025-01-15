@@ -93,6 +93,8 @@ For the Custom Stages, the stage briefings were exported to the    [docs section
 
 * Added 20 Stages from CSP
 * Updated the John Wick and 5x5 Drill with better instructions per string
+* Updated strings and instructions on GSSF Stages
+* Updated MM Drill #3 - Steel Doubles strings
 
 ### Repo v2025.01.14
 
