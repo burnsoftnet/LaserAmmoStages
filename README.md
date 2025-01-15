@@ -92,7 +92,7 @@ For the Custom Stages, the stage briefings were exported to the    [docs section
 ### Repo v2025.01.xx
 
 * Added 20 Stages from CSP
-* 
+* Updated the John Wick and 5x5 Drill with better instructions per string
 
 ### Repo v2025.01.14
 
