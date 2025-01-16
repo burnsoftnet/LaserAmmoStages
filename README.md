@@ -65,8 +65,10 @@ For the Custom Stages, the stage briefings were exported to the    [docs section
 
 * 5 to glock - Version 1
 * 5 to glock - Version 2
+* 5 to glock - Version 3
 * Glock the Plates
 * Glock'M
+* Glock'M Version 2
 
 #### MaxMichelDrills ( 6 Stages )
 
@@ -88,6 +90,11 @@ For the Custom Stages, the stage briefings were exported to the    [docs section
 
 
 ## Change Log
+
+### Repo v2025.02.xx
+
+* Added Glock M version 2 stage from the Bluegrass Regional Classic 2024
+* Added 5 to Glock Version 3 from the Bluegrass Regional Classic 2024
 
 ### Repo v2025.01.16
 
