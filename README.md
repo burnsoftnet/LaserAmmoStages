@@ -1,6 +1,6 @@
 # LaserAmmoStages
 
-Repo v2025.01.14
+Repo v2025.01.16
 
 Repo to share the Laser Ammo Competitive Shooter Pro, Open Range and Any Other Laser Ammo Related Stages that I have Created To Share with the public
 
@@ -89,7 +89,7 @@ For the Custom Stages, the stage briefings were exported to the    [docs section
 
 ## Change Log
 
-### Repo v2025.01.xx
+### Repo v2025.01.16
 
 * Added 20 Stages from CSP
 * Updated the John Wick and 5x5 Drill with better instructions per string
