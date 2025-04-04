@@ -50,7 +50,7 @@ For the Custom Stages, the stage briefings were exported to the    [docs section
 
 ## Open Range
 
-### Available States ( 22 Stages )
+### Available States ( 34 Stages )
 
 #### FromFacebookGroup ( 6 Stages )
 
@@ -70,7 +70,7 @@ For the Custom Stages, the stage briefings were exported to the    [docs section
 * Glock'M
 * Glock'M Version 2
 
-#### MaxMichelDrills ( 6 Stages )
+#### MaxMichelDrills ( 12 Stages )
 
 * Changeup
 * Drill #1 - Triple Six
@@ -78,6 +78,12 @@ For the Custom Stages, the stage briefings were exported to the    [docs section
 * Drill #4 - Controlled Pairs
 * Drill #5 - Out to Eat
 * Rapid Fire Paper
+* Drill #87 - Triple Six Single Hand
+* Drill #88 - Twenty Alpha Single Hand
+* Transition Hell
+* Transition Hell x 5
+* Transition Hell x 5 Weak Hand Only
+* Transition Hell x 5 Strong Hand Only
 
 #### MiscStages ( 6 Stages )
 
