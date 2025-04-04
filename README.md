@@ -1,6 +1,6 @@
 # LaserAmmoStages
 
-Repo v2025.01.16
+Repo v2025.04.04
 
 Repo to share the Laser Ammo Competitive Shooter Pro, Open Range and Any Other Laser Ammo Related Stages that I have Created To Share with the public
 
@@ -50,7 +50,7 @@ For the Custom Stages, the stage briefings were exported to the    [docs section
 
 ## Open Range
 
-### Available States ( 22 Stages )
+### Available States ( 34 Stages )
 
 #### FromFacebookGroup ( 6 Stages )
 
@@ -70,7 +70,7 @@ For the Custom Stages, the stage briefings were exported to the    [docs section
 * Glock'M
 * Glock'M Version 2
 
-#### MaxMichelDrills ( 6 Stages )
+#### MaxMichelDrills ( 12 Stages )
 
 * Changeup
 * Drill #1 - Triple Six
@@ -78,6 +78,12 @@ For the Custom Stages, the stage briefings were exported to the    [docs section
 * Drill #4 - Controlled Pairs
 * Drill #5 - Out to Eat
 * Rapid Fire Paper
+* Drill #87 - Triple Six Single Hand
+* Drill #88 - Twenty Alpha Single Hand
+* Transition Hell
+* Transition Hell x 5
+* Transition Hell x 5 Weak Hand Only
+* Transition Hell x 5 Strong Hand Only
 
 #### MiscStages ( 6 Stages )
 
@@ -91,7 +97,7 @@ For the Custom Stages, the stage briefings were exported to the    [docs section
 
 ## Change Log
 
-### Repo v2025.03.xx
+### Repo v2025.04.04
 
 * Added Glock M version 2 stage from the Bluegrass Regional Classic 2024
 * Added 5 to Glock Version 3 from the Bluegrass Regional Classic 2024
@@ -102,6 +108,9 @@ For the Custom Stages, the stage briefings were exported to the    [docs section
 * Added MM Drill #87
 * Added MM Drill *88
 * Added MM Drill - Transition Hell
+* Added MM Drill - Transition Hell x 5 - Perform 5 times in a row
+* Added MM Drill - Transition Hell x 5 Strong Hand Only - Perform 5 times in a row
+* Added MM Drill - Transition Hell x 5 Weak Hand Only - Perform 5 times in a row
 * Updated Rapid Fire paper drill
 
 ### Repo v2025.01.16
