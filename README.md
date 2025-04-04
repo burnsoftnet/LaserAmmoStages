@@ -91,7 +91,7 @@ For the Custom Stages, the stage briefings were exported to the    [docs section
 
 ## Change Log
 
-### Repo v2025.03.xx
+### Repo v2025.04.04
 
 * Added Glock M version 2 stage from the Bluegrass Regional Classic 2024
 * Added 5 to Glock Version 3 from the Bluegrass Regional Classic 2024
@@ -102,6 +102,9 @@ For the Custom Stages, the stage briefings were exported to the    [docs section
 * Added MM Drill #87
 * Added MM Drill *88
 * Added MM Drill - Transition Hell
+* Added MM Drill - Transition Hell x 5 - Perform 5 times in a row
+* Added MM Drill - Transition Hell x 5 Strong Hand Only - Perform 5 times in a row
+* Added MM Drill - Transition Hell x 5 Weak Hand Only - Perform 5 times in a row
 * Updated Rapid Fire paper drill
 
 ### Repo v2025.01.16
