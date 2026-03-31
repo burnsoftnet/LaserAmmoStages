@@ -14,7 +14,7 @@ For the Custom Stages, the stage briefings were exported to the    [docs section
 
 ## Competitive Shooter Pro ( CSP )
 
-### Available Stages ( 56 )
+### Available Stages ( 62 )
 
 #### USPSA ( 38 )
 * Bluegrass LOCAP Classic 2023 Match ( 1 ) /USPSA/BG LOCAP Stage 4.csp
@@ -42,6 +42,15 @@ For the Custom Stages, the stage briefings were exported to the    [docs section
 ### IDPA ( 1 stage )
 
 * Hold My Beer
+
+### Falling Steel World Series ( 6 stages )
+
+* FallingSteelWorldSeries/FSWS - Stage 01
+* FallingSteelWorldSeries/FSWS - Stage 02
+* FallingSteelWorldSeries/FSWS - Stage 03
+* FallingSteelWorldSeries/FSWS - Stage 04
+* FallingSteelWorldSeries/FSWS - Stage 05
+* FallingSteelWorldSeries/FSWS - Stage 06
 
 ### Training Schedule ( 2 stages )
 
@@ -108,6 +117,7 @@ For the Custom Stages, the stage briefings were exported to the    [docs section
 * Added USPSA Classifer CM 25-07, 2 Options
 * Added USPSA Classifer CM 25-08, 2 Options
 * Added USPSA Classifer CM 25-09
+* Added 5 Falling Steel World Series Stages base on pictures from the internet
 
 ### Repo v2025.04.04
 
