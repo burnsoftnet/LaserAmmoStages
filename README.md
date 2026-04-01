@@ -1,6 +1,6 @@
 # LaserAmmoStages
 
-Repo v2025.04.04
+Repo v2026.03.31
 
 Repo to share the Laser Ammo Competitive Shooter Pro, Open Range and Any Other Laser Ammo Related Stages that I have Created To Share with the public
 
@@ -14,9 +14,9 @@ For the Custom Stages, the stage briefings were exported to the    [docs section
 
 ## Competitive Shooter Pro ( CSP )
 
-### Available Stages ( 17 )
+### Available Stages ( 62 )
 
-#### USPSA ( 6 )
+#### USPSA ( 38 )
 * Bluegrass LOCAP Classic 2023 Match ( 1 ) /USPSA/BG LOCAP Stage 4.csp
 * Battle in the Bluegrass 2016 Match ( 1 ) /USPSA/Makers Mark the Spot.csp
 * Battle in the Bluegrass 2017 Match ( 1 ) /USPSA/Thousandsticks.csp
@@ -24,7 +24,7 @@ For the Custom Stages, the stage briefings were exported to the    [docs section
 * 2024 Area 5 ( 3 ) CSP\USPSA\2024 Area 5
 * 2024 Bluegrass State Championship ( 7 ) CSP\USPSA\2024 Bluegrass State Championship
 * 2024 CO Nationals ( 3 )  CSP\USPSA\2024 CO Nationals
-* Classifiers ( 5 ) CSP\USPSA\Classifiers
+* Classifiers ( 21 ) CSP\USPSA\Classifiers
 
 #### Action Steel ( 1 )
 * Mad Dash - /ActionSteel/Action Steel  - Mad Dash.csp
@@ -43,6 +43,15 @@ For the Custom Stages, the stage briefings were exported to the    [docs section
 
 * Hold My Beer
 
+### Falling Steel World Series ( 6 stages )
+
+* FallingSteelWorldSeries/FSWS - Stage 01
+* FallingSteelWorldSeries/FSWS - Stage 02
+* FallingSteelWorldSeries/FSWS - Stage 03
+* FallingSteelWorldSeries/FSWS - Stage 04
+* FallingSteelWorldSeries/FSWS - Stage 05
+* FallingSteelWorldSeries/FSWS - Stage 06
+
 ### Training Schedule ( 2 stages )
 
 * Training Schedule 1 - Steel
@@ -50,7 +59,7 @@ For the Custom Stages, the stage briefings were exported to the    [docs section
 
 ## Open Range
 
-### Available States ( 34 Stages )
+### Available Stages ( 34 Stages )
 
 #### FromFacebookGroup ( 6 Stages )
 
@@ -96,6 +105,19 @@ For the Custom Stages, the stage briefings were exported to the    [docs section
 
 
 ## Change Log
+
+### Repo v2026.03.31
+
+* Added USPSA Classifer CM 25-01, 2 Options
+* Added USPSA Classifer CM 25-02, 2 Options
+* Added USPSA Classifer CM 25-03
+* Added USPSA Classifer CM 25-04
+* Added USPSA Classifer CM 25-05, 2 Options
+* Added USPSA Classifer CM 25-06, 2 Options
+* Added USPSA Classifer CM 25-07, 2 Options
+* Added USPSA Classifer CM 25-08, 2 Options
+* Added USPSA Classifer CM 25-09
+* Added 5 Falling Steel World Series Stages base on pictures from the internet
 
 ### Repo v2025.04.04
 
